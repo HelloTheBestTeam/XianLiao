@@ -168,4 +168,7 @@
 			</plugin>
 		</plugins>
 	</build>
+	<modules>
+		<module>XianLiao-core</module>
+	</modules>
 </project>
